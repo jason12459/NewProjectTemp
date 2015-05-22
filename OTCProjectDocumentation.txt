@@ -10,5 +10,5 @@ This is setup to run in firefox or chrome.  To switch the test to use a chrome b
 	//	System.setProperty("webdriver.chrome.driver", "src//main//resources//chromedriver.exe"); 
 	//	driver = new ChromeDriver();
 3) Verify the chrome driver is in: src/main/resource/chromedriver.exe
-4) Go to src/test/java/test 
-5) Right click on HomePage class and Run as Testng
+4) Navigate to src/test/java/test/
+5) Right click on HomePage.java and Run as TestNG Test
